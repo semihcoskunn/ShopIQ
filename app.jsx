@@ -252,7 +252,7 @@ function App() {
             The intelligent shopping platform that learns and grows with you.
           </p>
           <p className="text-gray-500 text-sm">
-            © 2024 ShopIQ. All rights reserved. Join our waitlist to be the first to experience the future of shopping.
+            © 2025 ShopIQ. All rights reserved. Join our waitlist to be the first to experience the future of shopping.
           </p>
         </div>
       </footer>
